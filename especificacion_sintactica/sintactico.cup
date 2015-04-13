@@ -85,7 +85,7 @@ non terminal NodoBase procedure;
 precedence left PLUS;
 precedence left MINUS;
 precedence left TIMES;
-
+/*nuevosssssss*/
 precedence left OR;
 precedence left AND;
 
